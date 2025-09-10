@@ -31,3 +31,8 @@
 ⚡ Fun fact **A year contains 31,557,660 seconds**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenahsentinel&show_icons=true&locale=en" alt="lenahsentinel" /></p>
+
+*   **[linux-git-fundamentals](https://github.com/your-username/linux-git-fundamentals):** My learning journal and basic Bash automation scripts. (In Progress 🚧)
+*   *[More projects coming as I progress through the roadmap...]*
+
+<p align="center">⚡ <b>I won't give up.</b></p>
